@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Perfil Profissional – José Renan de Sousa Rodrigues</title>
+  <meta name="description" content="Perfil profissional de José Renan de Sousa Rodrigues.">
+</head>
+<body>
+  <header>
+    <h1>José Renan de Sousa Rodrigues</h1>
+    <p>Futuro Desenvolvedor </p>
+  </header>
+
+  <main>
+    <section aria-labelledby="foto-perfil">
+      <h2 id="foto-perfil">Foto de perfil</h2>
+      <figure>
+        <img class="avatar"
+        width="180" height="180"
+        src="imagens\Imagem do WhatsApp de 2025-08-20 à(s) 21.28.17_36d48d1a.jpg" 
+        alt="Imagem do José Renan de Sousa Rodrigues">
+        <figcaption>José Renan de Sousa Rodrigues</figcaption>
+      </figure>
+    </section>
+
+    <section aria-labelledby="contatos">
+      <h2 id="contatos">Contatos</h2>
+      <ul>
+        <li><strong>E-mail:</strong> <a href="mailto:j.rodrigues190@hotmail.com">j.rodrigues190@hotmail.com</a></li>
+        <li><strong>Telefone:</strong> <a href="tel:+558998104403">+55 (89) 99810-4403</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/JoseRenanDEV07">JoseRenanDEV07</a></li>
+        <li><strong>Usuário do GitHub:</strong> JoseRenanDEV07</li>
+        <li><strong>Instagram:</strong> <a href="https://www.instagram.com/j.renan47/">@j.renan47</a></li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="resumo">
+      <h2 id="resumo">Breve Resumo Profissional</h2>
+      <p>
+        Trabalho na Ambientar Moveis Planejados, <p>Trabalhei no Deposito do Armazem Paraiba, no setor de Confecção,<p/> Trabalhei como Auxiliar de Logistica na NAZARIA Distribuidora de Produto Farmaceuticos, <p>Atualmente estou cursando Analise e desenvolvimento de Sistemas na Uninassau-Redenção.<p/>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Última atualização: <time datetime="2025-08-20">20 de agosto de 2025</time></p>
+  </footer>
+</body>
+</html>
