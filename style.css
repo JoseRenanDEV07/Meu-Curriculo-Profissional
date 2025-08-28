@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.cdnfonts.com/css/coolvetica');
+
+body {
+  font-family: 'Coolvetica', sans-serif;
+  background-color: #d10606;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Cabeçalho */
+header {
+  background-color: #333;
+  color: #cfc311;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Título principal */
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 2rem;
+  margin: 0;
+}
+
+/* Imagem de perfil */
+img {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Seções */
+section {
+  padding: 20px;
+  margin: 10px auto;
+  max-width: 600px;
+  background-color: #ce530c;
+  border-radius: 8px;
+}
+
+/* Listas */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  margin: 5px 0;
+}
+
+/* Rodapé */
+footer {
+  background-color: #b11111;
+  color: #141313;
+  text-align: left;
+  padding: 13px;
+}
